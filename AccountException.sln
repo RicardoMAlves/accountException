@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountException", "AccountException\AccountException.csproj", "{DC69C9B8-8380-484F-B483-97A65A7C32F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC69C9B8-8380-484F-B483-97A65A7C32F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC69C9B8-8380-484F-B483-97A65A7C32F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC69C9B8-8380-484F-B483-97A65A7C32F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC69C9B8-8380-484F-B483-97A65A7C32F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0059B95-B8CD-4CF9-B680-2EA7A4F235D9}
+	EndGlobalSection
+EndGlobal
